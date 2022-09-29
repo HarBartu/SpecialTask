@@ -9,5 +9,5 @@ Files should contain n amount of lines with 1 string made of letters and numbers
 Program checks every line and if that string contains number higher or equal to 10 at any point it prints out that line.
 
 Results are printed to console:
-File name, followed by i + 2 lines, where i is the number of lines where condition was met.
+File name, followed by i + 2 lines, where i is the number of lines where condition was met
 Repeated for as many times, as many files with .txt extension where found
